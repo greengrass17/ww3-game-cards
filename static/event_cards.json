@@ -1,0 +1,204 @@
+{
+  "EventCards": [
+    {
+      "CardName": "",
+      "CardText": "A locust plague is hitting across Africa, destroying the crop and all other vegetation in their wake",
+      "CardEffect": "Deduce 10 from total point",
+      "CardCondition": "Only applies for African countries",
+      "NoOfCards": 3,
+      "To be played": "After point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "There is a shortage of food due to the large influx of wartime immigrants in one of the enemy’s allies.",
+      "CardEffect": "Deduce 10 from total point",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "To be played": "After point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Your country invents a mechanical shark and releases it in the Pacific, which promptly chews up all of the internet cable in the vicinity.",
+      "CardEffect": "Deduce 20 from total point",
+      "CardCondition": "Only applies for countries next to the Pacific",
+      "NoOfCards": 5,
+      "To be played": "After point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Your country invents a mechanical shark and releases it in Indian Ocean, which promptly chews up all of the internet cable in the vicinity.",
+      "CardEffect": "Deduce 15 from total point",
+      "CardCondition": "Only applies for countries next to Indian Ocean",
+      "NoOfCards": 3,
+      "To be played": "After point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Your country invents a mechanical shark and releases it in the Atlantic, which promptly chews up all of the internet cable in the vicinity.",
+      "CardEffect": "Deduce 20 from total point",
+      "CardCondition": "Only applies for countries next to the Atlantic",
+      "NoOfCards": 5,
+      "To be played": "After point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Supply trucks were bombed on their way",
+      "CardEffect": "Deduce 5 from total point",
+      "CardCondition": "",
+      "NoOfCards": 10,
+      "To be played": "After point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Widespread malaria",
+      "CardEffect": "Deduce 15 from total point",
+      "CardCondition": "Only applies for tropical countries",
+      "NoOfCards": 5,
+      "To be played": "After point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "A famous fortune teller has announced that your enemy will lose in the next battle.",
+      "CardEffect": "Deduce 5 from total point",
+      "CardCondition": "",
+      "NoOfCards": 1,
+      "To be played": "After point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "A recent documentary shows the war crimes committed by your enemy’s army in their newly acquired territory. International outcries become intense.",
+      "CardEffect": "Deduce 10 from total point",
+      "CardCondition": "",
+      "NoOfCards": 3,
+      "To be played": "After point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "A recent bomb testing in the Pacific is having a big impact on all the Pacific islands and the neighbouring countries",
+      "CardEffect": "Deduce 10 from total points",
+      "CardCondition": "Only applies for countries next to the Pacific",
+      "NoOfCards": 3,
+      "To be played": "After point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "New clean energy is invented, oil loses value.",
+      "CardEffect": "Take away 5 NR cards",
+      "CardCondition": "",
+      "NoOfCards": 3,
+      "To be played": "Before point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Biological warfare is back in the game.",
+      "CardEffect": "Take away 5 HR and 5 Mil cards",
+      "CardCondition": "",
+      "NoOfCards": 3,
+      "To be played": "Before point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Smallpox once again threatens civilisation.",
+      "CardEffect": "Take away 5 HR cards",
+      "CardCondition": "",
+      "NoOfCards": 3,
+      "To be played": "Before point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "You successfully recruited a top researcher from an enemy country.",
+      "CardEffect": "Take away 3 Mil cards for yourself",
+      "CardCondition": "Taken cards are available for use from the next round",
+      "NoOfCards": 5,
+      "To be played": "Before point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "The commander-in-chief of an enemy’s ally has been assassinated. The country falls into deep civil unrest, distrust grows among the military and suspicion falls on allies.",
+      "CardEffect": "Take away 5 Mil cards",
+      "CardCondition": "",
+      "NoOfCards": 3,
+      "To be played": "Before point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Your spy reports some critical informations",
+      "CardEffect": "Take away 3 Mil cards for yourself",
+      "CardCondition": "Taken cards are available for use from the next round",
+      "NoOfCards": 5,
+      "To be played": "Before point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "There’s a traitor in the midst! A random ally has betrayed you and defected to the other side. ",
+      "CardEffect": "Take away 1 Country card for yourself",
+      "CardCondition": "Taken cards are available for use from the next round",
+      "NoOfCards": 3,
+      "To be played": "Before point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Hurricanes have destroyed all the crops ",
+      "CardEffect": "Take away 5 NR cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "To be played": "Before point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Your enemy's cipher system has been solved",
+      "CardEffect": "Take away 5 Mil cards for yourself",
+      "CardCondition": "Taken cards are available for use from the next round",
+      "NoOfCards": 3,
+      "To be played": "Before point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "A landslide has occurred on one of the critical roads",
+      "CardEffect": "Neutralise all movements",
+      "CardCondition": "",
+      "NoOfCards": 3,
+      "To be played": "Before point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Your cargo ship got destroyed by an enemy submarine.",
+      "CardEffect": "Nautralise any movement across any oceans.",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "To be played": "While point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Bad weather with overcast",
+      "CardEffect": "Neutralise any navy or air force weapontry that has been used",
+      "CardCondition": "Applies to all countries at play",
+      "NoOfCards": 5,
+      "To be played": "While point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Strong typhoon in Atlantic Ocean.",
+      "CardEffect": "Neutralise any movement across the Atlantic",
+      "CardCondition": "Applies to all countries at play",
+      "NoOfCards": 5,
+      "To be played": "While point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "Your virus infects your enemy’s technology control station.",
+      "CardEffect": "Neutralise all MR cards",
+      "CardCondition": "",
+      "NoOfCards": 3,
+      "To be played": "While point-counting"
+    },
+    {
+      "CardName": "",
+      "CardText": "A virus in the air control system stops all flights",
+      "CardEffect": "Neutralise any +4 movement",
+      "CardCondition": "Applies to all countries at play",
+      "NoOfCards": 3,
+      "To be played": "While point-counting"
+    }
+  ]
+}

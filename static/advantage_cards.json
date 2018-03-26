@@ -1,0 +1,364 @@
+{
+  "AdvantageCards": [
+    {
+      "CardName": "Ancient Oil Treaty",
+      "CardText": "A Law student discovers an old treaty between you and a neighbouring country in which said country promised to supply you with natural resources in times of crisis. The treaty has been forgotten but is still in effect.",
+      "CardEffect": "5 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 10,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "The new gold",
+      "CardText": "New exploring technology allows your country to access new oil fields.",
+      "CardEffect": "5 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 15,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Swimming in oil",
+      "CardText": "Pumped by the new economic policy, you get plenty of oil this year.",
+      "CardEffect": "5 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 10,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Beautiful clean coal",
+      "CardText": "Coal may not be clean, but you have heaps of it anyway.",
+      "CardEffect": "3 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 15,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Miner migration",
+      "CardText": "Restructuring the economy provides more mining engineers",
+      "CardEffect": "3 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 15,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "RoboMiner",
+      "CardText": "Mining robots replace miners, improve productivity.",
+      "CardEffect": "3 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Girl's best friend",
+      "CardText": "A new diamond mine has been discovered and your country's decked out in dazzle",
+      "CardEffect": "3 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "A field of Mosanto",
+      "CardText": "Mosanto comes out with a brand new strain of crop that gives an extra 50% yield",
+      "CardEffect": "5 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 15,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "The Great White sharks",
+      "CardText": "Advanced submarines with morphable surface and fish-shaped torpedos.",
+      "CardEffect": "3 extra Mil cards",
+      "CardCondition": "Only usable if the country has a coast",
+      "NoOfCards": 3,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "A sea of grains",
+      "CardText": "Wonderful yield of crop this year, your markets are flooded with grains",
+      "CardEffect": "5 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 10,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Crocs and emus and roos too",
+      "CardText": "You manage to successfully raise a native animal in captivity to provide for the meat industry",
+      "CardEffect": "3 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "It's not just for Amazon",
+      "CardText": "You can now creepily stalk everyone with your drones",
+      "CardEffect": "5 extra Mil cards",
+      "CardCondition": "",
+      "NoOfCards": 10,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "The X Factor",
+      "CardText": "New medicines that speed up the body's healing process",
+      "CardEffect": "5 extra HR cards",
+      "CardCondition": "",
+      "NoOfCards": 10,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Villain speech",
+      "CardText": "Your enemy's spies are no match for your Truth Serum (TM)",
+      "CardEffect": "3 extra Mil cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Fly me to the moon",
+      "CardText": "A new far-range missle is available that provides a much longer range and higher accuracy",
+      "CardEffect": "5 extra Mil cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "No more typhus!",
+      "CardText": "Typhus has been eradicated",
+      "CardEffect": "3 extra HR cards",
+      "CardCondition": "",
+      "NoOfCards": 1,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "It's hard to breathe in here",
+      "CardText": "A new form of mustard gas has been developed and is ready to use. At your discretion, sir.",
+      "CardEffect": "3 extra Mil cards",
+      "CardCondition": "",
+      "NoOfCards": 3,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "No more malaria!",
+      "CardText": "Malaria has been eradicated",
+      "CardEffect": "3 extra HR cards",
+      "CardCondition": "Only usable in tropical countries",
+      "NoOfCards": 1,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "No more AIDS!",
+      "CardText": "AIDS has been eradicated",
+      "CardEffect": "5 extra HR cards",
+      "CardCondition": "Only usable in African countries",
+      "NoOfCards": 1,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Enigma 2.0",
+      "CardText": "You now have a new version of Enigma which is still kept secret from your enemy",
+      "CardEffect": "5 extra Mil cards",
+      "CardCondition": "",
+      "NoOfCards": 3,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Refugee wave",
+      "CardText": "An oversea refugee community from your country endorses the war on your side, which leads to a new influx of volunteers for the army",
+      "CardEffect": "5 extra HR cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "A Wakandan situation",
+      "CardText": "New development in metallurgy that gives you a technological advantage",
+      "CardEffect": "3 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "It's not Iron, it's a Gold-Titanium alloy",
+      "CardText": "Your engineers have successfully created a new durable alloy for multiple applications",
+      "CardEffect": "3 extra NR cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Brainwashing is a thing now",
+      "CardText": "All of the captured POWs and spies are your new force now",
+      "CardEffect": "5 extra HR cards",
+      "CardCondition": "Only usable if the player has won the previous battle",
+      "NoOfCards": 3,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Man with a Plan",
+      "CardText": "Your soldiers are genetically enhanced from juicing up with chemical X",
+      "CardEffect": "3 extra HR cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Golden hour container",
+      "CardText": "Special blood containers that can cools up blood and allows for longer-distanced transport",
+      "CardEffect": "5 extra HR cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "It's Sputnik baby!",
+      "CardText": "You can creepily stalk everyone with your satellites",
+      "CardEffect": "3 extra Mil cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "The crutch of the army",
+      "CardText": "More amputated troops successfully return to service with the help of prosthetics",
+      "CardEffect": "3 extra HR cards",
+      "CardCondition": "",
+      "NoOfCards": 10,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "H.O.U.N.D",
+      "CardText": "A new torture techniques that uses mind altering gas to enduce fear on the victim",
+      "CardEffect": "3 extra Mil cards",
+      "CardCondition": "",
+      "NoOfCards": 10,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Arc Reactor 1.0",
+      "CardText": "The Arc Reactor is invented, providing more powerful and consistent power",
+      "CardEffect": "5 extra Mil cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Lungs of steel",
+      "CardText": "Newly developed aeration system means that your submarines no longer rely on exogenous air supply.",
+      "CardEffect": "3 extra Mil cards",
+      "CardCondition": "Only usable if the country has a coast",
+      "NoOfCards": 1,
+      "Category": "Long-term"
+    },
+    {
+      "CardName": "Trump wall",
+      "CardText": "Your leader is a huge Trump fan and has a border wall erected on your border as a tribute to him.",
+      "CardEffect": "Add 10 to total point",
+      "CardCondition": "Usable in phase 2 and 3 in Defending Ally only.",
+      "NoOfCards": 3,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "Our new hero",
+      "CardText": "Marvel comes up with a new popular character whose ethnic background is from your country.",
+      "CardEffect": "Add 10 to total point",
+      "CardCondition": "Extra 5 points if your opponent is an English-speaking country",
+      "NoOfCards": 5,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "The coast is clear",
+      "CardText": "Your air force successfully prevented an air attack.",
+      "CardEffect": "Add 15 to total point",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "Grumpy Campaign",
+      "CardText": "Your favourite Youtube celebrity recently has a fundraising campaign at your country.",
+      "CardEffect": "Add 3 to total point",
+      "CardCondition": "Extra 2 points if your warring country is an English-speaking country",
+      "NoOfCards": 10,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "The Patriots",
+      "CardText": "A popular novel was written celebrating a war hero of your country.",
+      "CardEffect": "Add 10 to total point",
+      "CardCondition": "Extra 2 points if your opponent's warring country has the same national language as yours",
+      "NoOfCards": 10,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "Bring out the big guns",
+      "CardText": "Your country successfully demonstrate the newest, biggest nuclear bomb in a test.",
+      "CardEffect": "Add 20 to total point",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "Plenty of fish",
+      "CardText": "High demand for fish gives your GDP an extra boost",
+      "CardEffect": "Add 10 to total point",
+      "CardCondition": "Only usable if the country has a coast",
+      "NoOfCards": 5,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "What a day, what a lovely day!",
+      "CardText": "Exceptional agricultural yield from perfect weather",
+      "CardEffect": "Add 20 to total point",
+      "CardCondition": "",
+      "NoOfCards": 10,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "Baby boomer",
+      "CardText": "A baby boom 20 years ago means you have a larger-than-normal army reserve",
+      "CardEffect": "Add 10 to total point",
+      "CardCondition": "",
+      "NoOfCards": 10,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "I've got a pocketful of polio",
+      "CardText": "Somehow the last vial of viable polio falls into your hand",
+      "CardEffect": "Add 10 to total point",
+      "CardCondition": "",
+      "NoOfCards": 3,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "Game of Wars",
+      "CardText": "Widespread use of Virtual Reality in military training improve troops capability",
+      "CardEffect": "Add 5 to total point",
+      "CardCondition": "Only usable if your country is a developed country",
+      "NoOfCards": 5,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "Fresh blood",
+      "CardText": "You have had a successful recruitment campaign",
+      "CardEffect": "Add 5 to total point",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "Secret patronage",
+      "CardText": "Your secret ally provides aid for this battle with no cost to Logistics",
+      "CardEffect": "Add 10 to total point",
+      "CardCondition": "Only usable if the player has at least one hidden ally",
+      "NoOfCards": 5,
+      "Category": "Short-term"
+    },
+    {
+      "CardName": "SPAM!",
+      "CardText": "A new canned food has been invented that has a much longer shelf life",
+      "CardEffect": "3 extra HR cards",
+      "CardCondition": "",
+      "NoOfCards": 5,
+      "Category": "Long-term"
+    }
+  ]
+}

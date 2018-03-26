@@ -1,0 +1,33 @@
+{
+  "name": "ww3-game-cards",
+  "version": "0.1.0",
+  "description": "Cards list for ww3 game",
+  "main": "app/server.js",
+  "author": "Vu Dao",
+  "license": "No license",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app/server.js --exec babel-node --presets env,stage-2",
+    "build": "babel app -d dist",
+    "serve": "node dist/server.js",
+    "update": "rollup updateCards.js --o dist/updateCards.js --f cjs && babel dist/updateCards.js --out-file bundle.js && node bundle.js && rm bundle.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "eslint": "^4.11.0",
+    "nodemon": "^1.14.12",
+    "rollup": "^0.56.2"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "fs-extra": "^4.0.2",
+    "mongodb": "^2.2.33",
+    "require-dir": "^0.3.2"
+  }
+}
